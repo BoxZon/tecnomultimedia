@@ -1,3 +1,4 @@
+//Oviedo Lautaro 92708/7
 PImage imagen;
 
 void setup(){ imagen= loadImage("retrato.jpg");//imagen
